@@ -17,3 +17,10 @@ function johnLennonFacts(facts) {
   }
   return arr
 }
+
+function iLoveTheBeatles (n) {
+  var arr = [];
+  do {
+    
+  }
+}
